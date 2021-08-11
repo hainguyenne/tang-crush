@@ -1,19 +1,17 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'Chào 2 condi',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Mà sao 2 đứa mày cũng bất bình thường`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    title: 'Tao làm cái này cũng chỉ để hỏi tụi m 1 câu chân cmn thật',
+    desc: 'HẢI NGUYÊN CÓ ĐẸP GÁI KHÔNG?',
+    btnYes: 'Chưa thấy ai đẹp gái hơn m',
+    btnNo: 'Xấu ẻ xách cl chạy 8 hướng',
+    question:'Đừng khen t thế chứ. Tại sao tụi m thấy t đẹp nè?',
+    btnReply: 'Oke',
+    reply: 'Hải Nguyên đẹp không cần lí do',
+    mess: 'Cảm ơn lời nói thật trân của các bạn',
+    messDesc: 'Các bạn nên thấy may mắn zì là bạn của mình',
+    btnAccept: 'Quá chuẩn',
+    messLink: 'https://www.messenger.com/t/1359554620757531' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
